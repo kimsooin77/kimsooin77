@@ -1,5 +1,5 @@
 ## 🙋🏻‍♀️ Welcome! I'm sooin kim.
-------
+
 - 👩🏻‍💻 My goal is to become an evolving front-end developer.
 - I prefer to have a detailed plan to get things done predictably and efficiently. 📝
 - I am studying to improve my vanilla JavaScript and Next.js skills.
