@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#f3f2ed&height=600&section=header&text=텍스트&fontSize=폰트크기)
-
 ## 🙋🏻‍♀️ Welcome! I'm sooin kim.
 ------
 - 👩🏻‍💻 My goal is to become an evolving front-end developer.
