@@ -1,12 +1,9 @@
 # 김수인 | Web Developer
 
-React·Next.js와 Node.js 기반으로 사용자 기능부터 API·데이터 처리까지 개발해 온  
-**4년차 웹 개발자**입니다.
+React·Next.js와 Node.js 기반으로 사용자 기능부터 API·데이터 처리까지 개발해 온 **4년차 웹 개발자**입니다.
 
-인증·세션, 실시간 상태 동기화, 외부 시스템 연계처럼  
-**운영 환경의 복잡한 상태와 예외 흐름을 구조화하는 데 강점**이 있습니다.
+인증·세션, 실시간 상태 동기화, 외부 시스템 연계처럼 **운영 환경의 복잡한 상태와 예외 흐름을 구조화하는 데 강점**이 있습니다.
 
-[GitHub](https://github.com/kimsooin77) · [Velog](https://velog.io/@ssooo_kk_77/posts)
 
 ---
 
@@ -43,12 +40,11 @@ HR 직원 정보를 내부 DB와 동기화하고,
 
 ---
 
-## Tech Notes
+## 개발 블로그
 
 개발하면서 해결한 문제와 학습한 내용을 기록합니다.
 
-- Next.js에서 PWA로 오프라인 입력 데이터를 저장하고 재전송하기
-- OpenLayers Overlay와 iframe 레이어 문제
-- GraphRAG, Knowledge Graph, Ontology의 차이
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [Velog 전체 글 보기 →](https://velog.io/@ssooo_kk_77/posts)
