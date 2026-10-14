@@ -6,9 +6,23 @@ React·Next.js와 Node.js 기반으로 사용자 기능부터 API·데이터 처
 인증·세션, 실시간 상태 동기화, 외부 시스템 연계처럼  
 **운영 환경의 복잡한 상태와 예외 흐름을 구조화하는 데 강점**이 있습니다.
 
-**Frontend** · React · Next.js · Vue · TypeScript · React Native  
-**Backend / Data** · Node.js · Express · PostgreSQL · Oracle · Redis  
-**Currently Expanding** · Java · Spring Boot · Docker · AWS
+[GitHub](https://github.com/kimsooin77) · [Velog](https://velog.io/@ssooo_kk_77/posts)
+
+---
+
+## Tech Stack
+
+**Frontend**  
+React · Next.js · Vue · TypeScript · React Native
+
+**Backend**  
+Node.js · Express · Java · Spring Boot
+
+**Data**  
+PostgreSQL · Oracle · Redis
+
+**Infra**  
+Docker · AWS · GitHub Actions · Git
 
 ---
 
@@ -16,21 +30,25 @@ React·Next.js와 Node.js 기반으로 사용자 기능부터 API·데이터 처
 
 ### Employee Lifecycle Sync
 
-HR 직원 정보를 내부 DB와 동기화하고  
+HR 직원 정보를 내부 DB와 동기화하고,  
 입사·정보 변경·퇴사에 따른 그룹웨어 계정 연계를 관리하는 시스템입니다.
 
 - 외부 시스템 장애와 내부 직원 처리 분리
 - 실패 작업 자동 재처리 및 복구
-- 동일 요청 중복 처리 방지
+- 동일 요청의 중복 처리 방지
 - 10,000건 동기화 조회 구조 개선
 - AWS 배포 및 GitHub Actions 자동화
 
-[Repository](https://github.com/kimsooin77/Sync) ·
-[Live Demo](https://d2cpqpf162fsls.cloudfront.net)
+[Repository](https://github.com/kimsooin77/Sync) · [Live Demo](https://d2cpqpf162fsls.cloudfront.net)
 
 ---
 
-## Writing
+## Tech Notes
 
-개발하면서 해결한 문제와 학습한 내용을 기록합니다.  
-[Velog →](https://velog.io/@ssooo_kk_77/posts)
+개발하면서 해결한 문제와 학습한 내용을 기록합니다.
+
+- Next.js에서 PWA로 오프라인 입력 데이터를 저장하고 재전송하기
+- OpenLayers Overlay와 iframe 레이어 문제
+- GraphRAG, Knowledge Graph, Ontology의 차이
+
+[Velog 전체 글 보기 →](https://velog.io/@ssooo_kk_77/posts)
