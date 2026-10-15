@@ -36,15 +36,13 @@ HR 직원 정보를 내부 DB와 동기화하고,
 - 10,000건 동기화 조회 구조 개선
 - AWS 배포 및 GitHub Actions 자동화
 
-[Repository](https://github.com/kimsooin77/Sync) · [Live Demo](https://d2cpqpf162fsls.cloudfront.net)
-
 ---
 
 ## 개발 블로그
 
 개발하면서 해결한 문제와 학습한 내용을 기록합니다.
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ssooo_kk_77)](https://velog.io/@ssooo_kk_77) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsooin77&layout=compact&hide=shell) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ssooo_kk_77)](https://velog.io/@ssooo_kk_77) 
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
