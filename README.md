@@ -43,8 +43,3 @@ HR 직원 정보를 내부 DB와 동기화하고,
 개발하면서 해결한 문제와 학습한 내용을 기록합니다.
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=ssooo_kk_77)](https://velog.io/@ssooo_kk_77) 
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-[Velog 전체 글 보기 →](https://velog.io/@ssooo_kk_77/posts)
